@@ -1,4 +1,4 @@
-Eco Runner ♻️ (Versão freeGLUT)
+Eco Runner ♻️ 
 
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/f59aed9a-79f2-4857-b6fc-1dd45f359d7b" />
 
