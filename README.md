@@ -3,8 +3,6 @@ Eco Runner ♻️ (Versão freeGLUT)
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/f59aed9a-79f2-4857-b6fc-1dd45f359d7b" />
 
 
-Status do Projeto: Protótipo em Desenvolvimento
-
 Um jogo 2D de corrida infinita (infinite runner) com tema de reciclagem, desenvolvido em C++ e OpenGL. Este projeto serve como um estudo prático de computação gráfica, gerenciamento de estados de jogo e interação com o usuário.
 
 📜 Sobre o Jogo
@@ -37,3 +35,14 @@ Biblioteca de Imagens: stb_image.h (para carregar os arquivos de textura).
 Compilador: MinGW (g++) para Windows.
 
 Ambiente de Desenvolvimento: Visual Studio Code, com compilação gerenciada por tarefas (tasks.json).
+
+👥 Créditos e Agradecimentos
+Este projeto foi desenvolvido em colaboração por:
+
+Carlos Eduardo Batista Diniz (https://github.com/CaduBD)
+
+Raimundo Ferreira do Nascimento Junior (https://github.com/Raijunior05)
+
+Uma parceria para aprofundar nossos estudos em desenvolvimento de jogos e computação gráfica.
+
+Projeto desenvolvido como parte de um estudo em C++ e Computação Gráfica.
